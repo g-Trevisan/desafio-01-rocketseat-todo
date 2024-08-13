@@ -1,0 +1,19 @@
+.menutopo{
+    background: var(--gray-700);
+    height: 12.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.375rem;
+}
+
+.rocketlogo{
+    height: 2.25rem;
+    width: auto;
+}
+
+.todologo{
+    height: 1.84rem;
+    width: auto;
+    margin-bottom: 0.3125rem;
+}
